@@ -6,7 +6,7 @@
 
 Coding is not just my skill — it’s my tool to solve real problems.
 React. MERN. Node.js. Open Source. Growth. That’s the energy here.
-<--------------------------------------------------------------------------->
+
 
 # 🛠️ Tech Stack
 Frontend: React | JavaScript | Tailwind CSS
@@ -17,7 +17,6 @@ Database: MongoDB
 
 Tools: Git | GitHub | Firebase | Verce
 
-<------------------------------------------------------------------------>
 
 # 🏹 Focused On
 
@@ -31,7 +30,7 @@ Learning faster by building faster
 
 Taking every project to the next level
 
-<--------------------------------------------------------------------------->
+
 
 # 🤝 Work With Me
 
