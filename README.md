@@ -4,7 +4,6 @@
 -->  Full-Stack Developer | Final Year Computer Science Student
      I build. I solve. I deliver.
 
-Coding is not just my skill — it’s my tool to solve real problems.
 React. MERN. Node.js. Open Source. Growth. That’s the energy here.
 
 
